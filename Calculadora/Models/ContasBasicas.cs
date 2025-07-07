@@ -1,4 +1,4 @@
-class Adicao
+class ContasBasicas
 {
     static double Somar(double x, double y)
     {
